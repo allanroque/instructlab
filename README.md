@@ -3,9 +3,9 @@ Montando um ambiente InstructLAB passo-a-passo, com Modelo e Interface de Chat. 
 
 Instruções para:
 
-[Mac](#no-mac)
-[RHEL 9](#no-rhel-9)
-[Fedora](#no-fedora)
+## [Mac](#no-mac)
+## [RHEL 9](#no-rhel-9)
+## [Fedora](#no-fedora)
 
 ## No RHEL 9:
 
