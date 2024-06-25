@@ -1,4 +1,4 @@
-# InstructLab: Explorando a Inteligência Artificial no seu Notebook/PC
+# InstructLab: Explorando a Inteligência Artificial no seu Notebook
 
 ![Banner](https://github.com/allanroque/instructlab/blob/main/assets/instructlab-banner.png)
 
