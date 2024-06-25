@@ -1,6 +1,6 @@
 # InstructLab: Explorando a Inteligência Artificial no seu Notebook/PC
 
-![Banner](https://github.com/allanroque/instructlab/assets/instructlab-banner.png)
+![Banner](https://github.com/allanroque/instructlab/blob/main/assets/instructlab-banner.png)
 
 ### O que é o InstructLab?
 O InstructLab é uma ferramenta poderosa que transforma seu terminal em um laboratório de inteligência artificial. Utilizando a interface de linha de comando (CLI), você pode baixar, configurar e conversar com Modelos de Linguagem de Grande Escala (LLMs), que são sistemas avançados capazes de entender e gerar textos de forma inteligente.
