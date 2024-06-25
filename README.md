@@ -1,3 +1,23 @@
+# InstructLab: Explorando a Inteligência Artificial no seu Notebook/PC
+
+![Banner](https://github.com/allanroque/instructlab/assets/instructlab-banner.png)
+
+### O que é o InstructLab?
+O InstructLab é uma ferramenta poderosa que transforma seu terminal em um laboratório de inteligência artificial. Utilizando a interface de linha de comando (CLI), você pode baixar, configurar e conversar com Modelos de Linguagem de Grande Escala (LLMs), que são sistemas avançados capazes de entender e gerar textos de forma inteligente.
+
+### Por que usar o InstructLab?
+1) **Acessibilidade:** Projetado para ser utilizado em computadores comuns, o InstructLab permite que qualquer pessoa explore o mundo da IA sem necessidade de equipamentos caros.
+2) **Facilidade de Uso:** Comandos simplificados e uma estrutura clara facilitam o aprendizado e a execução das tarefas, mesmo para iniciantes.
+3) **Flexibilidade:** Se você deseja experimentos mais robustos, o InstructLab também é capaz de operar em hardware mais sofisticado, permitindo a geração de dados e afinação de modelos com alta fidelidade.
+
+### Primeiros Passos com InstructLab
+A instalação e utilização do InstructLab são feitas diretamente pelo terminal do seu sistema operacional, seja macOS ou Linux. Os passos incluem a instalação de ferramentas de desenvolvimento, preparação de um ambiente Python virtual, e comandos simples para iniciar a interação com o modelo de IA. Você será guiado passo a passo pelo próprio sistema do InstructLab, garantindo que não fique perdido durante o processo.
+
+### Comece a Explorar a IA Hoje Mesmo!
+Quer você seja um estudante, um entusiasta da tecnologia, ou alguém curioso sobre inteligência artificial, o InstructLab oferece uma porta de entrada acessível e poderosa para o mundo da IA. Experimente, aprenda e crie com o InstructLab no conforto do seu notebook!
+
+Para mais detalhes e guias de instalação, visite nossa [página oficial](https://github.com/instructlab/instructlab/tree/main?tab=readme-ov-file#instructlab--ilab).
+
 # instructlab
 Montando um ambiente InstructLAB passo-a-passo, com Modelo e Interface de Chat. Executável em qualquer notebook sem grandes requisitos de hardware.
 
